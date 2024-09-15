@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+#home {
+    background-image: url('hero-food.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+.card {
+    margin: 15px 0;
+}
+footer {
+    background-color: #212529;
+}
